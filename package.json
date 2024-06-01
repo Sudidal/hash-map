@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "hash-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hashMap.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "linked-list-oxide": "^3.0.0"
+  }
+}
