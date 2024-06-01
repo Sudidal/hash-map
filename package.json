@@ -7,11 +7,15 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sudidal/hash-map"
+  },
+  "keywords": ["hash", "hashmap", "collection", "list"],
+  "author": "mohammed <mohammedhaider15mo@gmail.com>",
   "license": "ISC",
+  "bugs": {"url": "https://github.com/Sudidal/hash-map/issues"},
   "devDependencies": {
-    "jest": "^29.7.0",
-    "linked-list-oxide": "^3.0.0"
+    "jest": "^29.7.0"
   }
 }
